@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass'
 gem 'paperclip'
+gem 'carrierwave', '>= 1.0.0.rc', '< 2.0'
 
 group :production do
   gem 'pg'
